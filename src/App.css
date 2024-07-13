@@ -52,4 +52,7 @@ ul {
 .angle-transition.make-transition {
   transform: rotate(-180deg);
 }
+.cursor-pointer {
+  cursor: pointer;
+}
 /* GENERAL STYLES */

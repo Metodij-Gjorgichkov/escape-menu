@@ -7,7 +7,7 @@ const Banner1 = ({ title, allProducts }: GenericType) => {
   return (
     <>
       <div
-        className="d-flex justify-content-between align-items-center main-border p-2 mb-4"
+        className="d-flex justify-content-between align-items-center main-border cursor-pointer p-2 mb-4"
         onClick={() => {
           setToggle(!toggle);
         }}
