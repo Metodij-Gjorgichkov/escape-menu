@@ -1,38 +1,55 @@
-.App {
-  text-align: center;
-}
+/* CSS FONT */
+@import url("https://fonts.googleapis.com/css2?family=Cardo:ital,wght@0,400;0,700;1,400&display=swap");
+/* CSS FONT */
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+/* CSS RESETS */
+* {
+  box-sizing: border-box;
 }
+body {
+  margin: 0;
+  background-color: rgb(52, 52, 52);
+  font-family: "Cardo", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+html {
+  scroll-behavior: smooth;
+}
+h1,
+h2,
+h3,
+p,
+ul {
+  margin-top: 0;
+}
+img {
+  max-width: 100%;
+}
+.main-color {
+  color: rgb(219, 190, 91);
+}
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
+/* CSS RESETS */
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/* HEADER */
+.logo {
+  width: 220px;
+  height: 260px;
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+/* HEADER */
+/* GENERAL STYLES */
+.main-border {
+  border: 2px solid rgb(219, 190, 91);
+  border-radius: 12px;
 }
-
-.App-link {
-  color: #61dafb;
+.angle-transition {
+  transition: all 0.3s ease;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.angle-transition.make-transition {
+  transform: rotate(-180deg);
 }
+/* GENERAL STYLES */
