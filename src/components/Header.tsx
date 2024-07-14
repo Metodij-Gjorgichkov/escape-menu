@@ -3,7 +3,9 @@ const Header = () => {
     <div className="container">
       <div className="row">
         <div className="col-12 text-center">
-          <img className="logo" src="/images/logo.jpg" alt="logo" />
+          <a href="https://www.instagram.com/caffe_escape/">
+            <img className="logo" src="/images/logo.jpg" alt="logo" />
+          </a>
         </div>
       </div>
     </div>
