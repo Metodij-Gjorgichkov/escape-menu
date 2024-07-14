@@ -14,7 +14,7 @@ const Banner1 = ({ title, allProducts }: GenericType) => {
       >
         <h6 className="mb-0 text-uppercase">{title}</h6>
         <i
-          className={`fa-solid fa-angle-up angle-transition ${
+          className={`fa-solid fa-angle-down angle-transition ${
             toggle ? "make-transition" : ""
           }`}
         ></i>
