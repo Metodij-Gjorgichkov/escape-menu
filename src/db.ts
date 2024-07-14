@@ -46,7 +46,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Вотка Смирноф (40ml)",
-      price: "110",
+      price: "120",
     },
     {
       nameAndMl: "Вотка Вигор (40ml)",
@@ -109,7 +109,7 @@ export const strongDrinks: GenericType = {
       price: "100",
     },
     {
-      nameAndMl: "Рум (40ml)",
+      nameAndMl: "Рум - Бадел (40ml)",
       price: "80",
     },
     {
@@ -158,11 +158,7 @@ export const vines: GenericType = {
       price: "180",
     },
     {
-      nameAndMl: "Мускат Далвина (187ml)",
-      price: "200",
-    },
-    {
-      nameAndMl: "Темјаника Бело (187ml)",
+      nameAndMl: "Мускат Темјаника Далвина (187ml)",
       price: "200",
     },
     {
@@ -171,7 +167,7 @@ export const vines: GenericType = {
     },
     {
       nameAndMl: "Александрија Црвено (187ml)",
-      price: "100",
+      price: "180",
     },
   ],
 };
@@ -204,7 +200,11 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Куба Либре",
-      price: "170",
+      price: "140",
+    },
+    {
+      nameAndMl: "Куба Либре - Капетан Морган",
+      price: "150",
     },
     {
       nameAndMl: "Куба Либре - Бакарди",
