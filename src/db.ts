@@ -403,7 +403,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Ладно Еспресо",
-      price: "60",
+      price: "50",
     },
     {
       nameAndMl: "Ајс Кафе (200ml)",
