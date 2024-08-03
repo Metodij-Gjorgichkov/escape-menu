@@ -553,3 +553,558 @@ export const nonAlchocolDrinks: GenericType = {
     },
   ],
 };
+
+// EN translations
+export const whiskeyAndBourbonEN: GenericType = {
+  title: "WHISKEY AND BOURBON",
+  allProducts: [
+    {
+      nameAndMl: "Jameson (40ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Jack Daniels (40ml)",
+      price: "200",
+    },
+    {
+      nameAndMl: "Jim Beam (40ml)",
+      price: "160",
+    },
+    {
+      nameAndMl: "Johnnie Walker (40ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Johnnie Walker - Black (40ml)",
+      price: "260",
+    },
+    {
+      nameAndMl: "Chivas (40ml)",
+      price: "260",
+    },
+    {
+      nameAndMl: "Tullamore (40ml)",
+      price: "160",
+    },
+    {
+      nameAndMl: "Four Roses Bourbon (40ml)",
+      price: "160",
+    },
+  ],
+};
+export const strongDrinksEN: GenericType = {
+  title: "LIQUORS",
+  allProducts: [
+    {
+      nameAndMl: "Vodka Absolut (40ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Vodka Smirnoff (40ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Vodka Vigor (40ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Gin Sax (40ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Gin Beefeater (40ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Gin Bombay (40ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Gin Gordons (40ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Cognac (40ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Stock (40ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Ouzo (40ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Ouzo Plomari (40ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Mastika (40ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Loza (40ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Aperol (40ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Pelinkovac (40ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Jager (40ml)",
+      price: "140",
+    },
+    {
+      nameAndMl: "Martini (40ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Rum - Badel (40ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "White Rum (40ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Captain Morgan Rum (40ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Malibu (40ml)",
+      price: "140",
+    },
+    {
+      nameAndMl: "Baileys (40ml)",
+      price: "140",
+    },
+    {
+      nameAndMl: "Bacardi (40ml)",
+      price: "140",
+    },
+    {
+      nameAndMl: "Campari (40ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Kahlua (40ml)",
+      price: "130",
+    },
+    {
+      nameAndMl: "Tequila (30ml)",
+      price: "100",
+    },
+  ],
+};
+export const vinesEN: GenericType = {
+  title: "WINES",
+  allProducts: [
+    {
+      nameAndMl: "Alexandria White (187ml)",
+      price: "180",
+    },
+    {
+      nameAndMl: "Traminec White (187ml)",
+      price: "180",
+    },
+    {
+      nameAndMl: "Muskat Temjanika Dalvina (187ml)",
+      price: "200",
+    },
+    {
+      nameAndMl: "T'ga Red (187ml)",
+      price: "180",
+    },
+    {
+      nameAndMl: "Alexandria Red (187ml)",
+      price: "180",
+    },
+  ],
+};
+export const cocktailsEN: GenericType = {
+  title: "COCKTAILS",
+  allProducts: [
+    {
+      nameAndMl: "Sex on the Beach",
+      price: "150",
+    },
+    {
+      nameAndMl: "Tequila Sunrise (250ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Godfather",
+      price: "220",
+    },
+    {
+      nameAndMl: "Bramble",
+      price: "150",
+    },
+    {
+      nameAndMl: "Mojito (440ml)",
+      price: "220",
+    },
+    {
+      nameAndMl: "Black Mojito",
+      price: "220",
+    },
+    {
+      nameAndMl: "Cuba Libre",
+      price: "140",
+    },
+    {
+      nameAndMl: "Cuba Libre - Captain Morgan",
+      price: "150",
+    },
+    {
+      nameAndMl: "Cuba Libre - Bacardi",
+      price: "170",
+    },
+    {
+      nameAndMl: "Long Island (250ml)",
+      price: "230",
+    },
+    {
+      nameAndMl: "Night of Passion (350ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Kamikaze (450ml)",
+      price: "300",
+    },
+    {
+      nameAndMl: "Aperol Spritz (300ml)",
+      price: "150",
+    },
+    {
+      nameAndMl: "Blue Lagoon",
+      price: "160",
+    },
+    {
+      nameAndMl: "Blue Hawaii",
+      price: "160",
+    },
+    {
+      nameAndMl: "Americano Cocktail",
+      price: "160",
+    },
+    {
+      nameAndMl: "Margarita Cocktail",
+      price: "150",
+    },
+    {
+      nameAndMl: "Negroni",
+      price: "160",
+    },
+    {
+      nameAndMl: "Bahama Mama",
+      price: "150",
+    },
+    {
+      nameAndMl: "Jager Shot (30ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Amare Shot",
+      price: "100",
+    },
+    {
+      nameAndMl: "B-52 (30ml)",
+      price: "100",
+    },
+  ],
+};
+
+export const beersEN: GenericType = {
+  title: "BEERS",
+  allProducts: [
+    {
+      nameAndMl: "Skopsko (330ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Skopsko Smooth (330ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Heineken (330ml)",
+      price: "140",
+    },
+    {
+      nameAndMl: "Heineken (250ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Tuborg (330ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Zlaten Dab (330ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Amstel (500ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Sarajevsko (330ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Corona (330ml)",
+      price: "180",
+    },
+    {
+      nameAndMl: "Jelen (500ml)",
+      price: "110",
+    },
+  ],
+};
+
+export const iceCreamEN: GenericType = {
+  title: "ICE CREAM",
+  allProducts: [
+    {
+      nameAndMl: "Cermat Scoop (140ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Cermat 2 Scoops",
+      price: "140",
+    },
+    {
+      nameAndMl: "Cermat 3 Scoops",
+      price: "200",
+    },
+  ],
+};
+
+export const waterEN: GenericType = {
+  title: "WATER",
+  allProducts: [
+    {
+      nameAndMl: "Rosa Still (330ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Rosa Sparkling (330ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Wellness (330ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Active (330ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Sparkling Knjaz (250ml)",
+      price: "50",
+    },
+    {
+      nameAndMl: "Still Ladna (250ml)",
+      price: "50",
+    },
+  ],
+};
+export const warmDrinksEN: GenericType = {
+  title: "HOT DRINKS",
+  allProducts: [
+    {
+      nameAndMl: "Espresso Small",
+      price: "50",
+    },
+    {
+      nameAndMl: "Espresso Large",
+      price: "50",
+    },
+    {
+      nameAndMl: "Espresso Americano",
+      price: "50",
+    },
+    {
+      nameAndMl: "Macchiato Small",
+      price: "50",
+    },
+    {
+      nameAndMl: "Macchiato Large",
+      price: "60",
+    },
+    {
+      nameAndMl: "Frappe (300ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Nes Coffee (330ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Steamed Nes (200ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Hot Nes without Milk",
+      price: "50",
+    },
+    {
+      nameAndMl: "Cold Macchiato",
+      price: "60",
+    },
+    {
+      nameAndMl: "Cold Espresso",
+      price: "50",
+    },
+    {
+      nameAndMl: "Iced Coffee (200ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Cappuccino (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Latte Cappuccino (200ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Hot Tea (200ml)",
+      price: "50",
+    },
+    {
+      nameAndMl: "Milk Shake (330ml)",
+      price: "100",
+    },
+    {
+      nameAndMl: "Frappe with Ice Cream",
+      price: "120",
+    },
+    {
+      nameAndMl: "Fredo Espresso (80ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Milk (250ml)",
+      price: "50",
+    },
+  ],
+};
+
+export const nonAlcoholicDrinksEN: GenericType = {
+  title: "NON-ALCOHOLIC DRINKS",
+  allProducts: [
+    {
+      nameAndMl: "Coca Cola (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Coca Cola Zero (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Fanta (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Sprite (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Schweppes (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Iced Tea (330ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Bravo Strawberry (330ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Bravo Orange (330ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Bravo Blueberry (330ml)",
+      price: "80",
+    },
+    {
+      nameAndMl: "Strumka (250ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Cockta (330ml)",
+      price: "70",
+    },
+    {
+      nameAndMl: "Soda Orange (330ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Soda Mojito (330ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Soda Lemon (330ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Monin - Lemonade (330ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Draft Juice - Orange (250ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Draft Juice - Pineapple (250ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Draft Juice - Kiwi (250ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Lemonade (300ml)",
+      price: "60",
+    },
+    {
+      nameAndMl: "Fresh Juice Orange (330ml)",
+      price: "120",
+    },
+    {
+      nameAndMl: "Fresh Juice Mix - Lemon and Orange (330ml)",
+      price: "130",
+    },
+    {
+      nameAndMl: "Monin - Puree Lemonade (300ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Monin - Puree Kiwi (300ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Monin - Puree Strawberry (300ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Monin - Puree Apple (300ml)",
+      price: "90",
+    },
+    {
+      nameAndMl: "Cedevita (250ml)",
+      price: "50",
+    },
+    {
+      nameAndMl: "Red Bull (330ml)",
+      price: "180",
+    },
+  ],
+};
