@@ -308,6 +308,10 @@ export const beers: GenericType = {
       nameAndMl: "Јелен (500ml)",
       price: "110",
     },
+    {
+      nameAndMl: "Јагодинско (500ml)",
+      price: "110",
+    }
   ],
 };
 
@@ -863,6 +867,10 @@ export const beersEN: GenericType = {
       nameAndMl: "Jelen (500ml)",
       price: "110",
     },
+    {
+      nameAndMl: "Jagodinsko (500ml)",
+      price: "110",
+    }
   ],
 };
 
