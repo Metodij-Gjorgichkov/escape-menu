@@ -42,7 +42,7 @@ export const strongDrinks: GenericType = {
   allProducts: [
     {
       nameAndMl: "Вотка Абсолут (40ml)",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Вотка Смирноф (40ml)",
@@ -334,27 +334,27 @@ export const water: GenericType = {
   allProducts: [
     {
       nameAndMl: "Роса Негазирана (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Роса Газирана (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Велнес (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Актив (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Газирана Књаз (250ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Негазирана Ладна (250ml)",
-      price: "50",
+      price: "70",
     },
   ],
 };
@@ -363,31 +363,31 @@ export const warmDrinks: GenericType = {
   allProducts: [
     {
       nameAndMl: "Еспресо Мало",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Еспресо Големо",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Еспресо Американо",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Макијато Мало",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Макијато Големо",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Фрапе (300ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Нес Кафе (330ml)",
-      price: "80",
+      price: "90",
     },
     {
       nameAndMl: "Попарено Нес (200ml)",
@@ -399,11 +399,11 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Ладно Макијато",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Ладно Еспресо",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Ајс Кафе (200ml)",
@@ -411,7 +411,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Капучино (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Лате Капучино (200ml)",
@@ -419,7 +419,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Топол Чај (200ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Милк Шејк (330ml)",
@@ -431,7 +431,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Фредо Еспресо (80ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Млеко (250ml)",
@@ -445,23 +445,23 @@ export const nonAlchocolDrinks: GenericType = {
   allProducts: [
     {
       nameAndMl: "Кока Кола (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Кока Кола Зеро (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Фанта (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Спрајт (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Швепс (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Леден Чај (330ml)",
@@ -481,11 +481,11 @@ export const nonAlchocolDrinks: GenericType = {
     },
     {
       nameAndMl: "Струмка (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Кокта (330ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Сода Портокал (330ml)",
@@ -501,7 +501,7 @@ export const nonAlchocolDrinks: GenericType = {
     },
     {
       nameAndMl: "Монин - Лимонада (330ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Наливен Сок - Портокал (250ml)",
@@ -517,35 +517,35 @@ export const nonAlchocolDrinks: GenericType = {
     },
     {
       nameAndMl: "Лимонада (300ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Цеден Сок Портокал (330ml)",
-      price: "120",
-    },
-    {
-      nameAndMl: "Цеден Сок Микс - Лимон и Портокал (330ml)",
       price: "130",
     },
     {
+      nameAndMl: "Цеден Сок Микс - Лимон и Портокал (330ml)",
+      price: "150",
+    },
+    {
       nameAndMl: "Монин - Пире Лимонада (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Монин - Пире Киви (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Монин - Пире Јагода (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Монин - Пире Јаболко (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Цедевита (250ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Ред Бул (330ml)",
@@ -597,7 +597,7 @@ export const strongDrinksEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Vodka Absolut (40ml)",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Vodka Smirnoff (40ml)",
@@ -889,27 +889,27 @@ export const waterEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Rosa Still (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Rosa Sparkling (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Wellness (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Active (330ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Sparkling Knjaz (250ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Still Ladna (250ml)",
-      price: "50",
+      price: "70",
     },
   ],
 };
@@ -918,31 +918,31 @@ export const warmDrinksEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Espresso Small",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Espresso Large",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Espresso Americano",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Macchiato Small",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Macchiato Large",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Frappe (300ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Nes Coffee (330ml)",
-      price: "80",
+      price: "90",
     },
     {
       nameAndMl: "Steamed Nes (200ml)",
@@ -954,11 +954,11 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Cold Macchiato",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Cold Espresso",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Iced Coffee (200ml)",
@@ -966,7 +966,7 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Cappuccino (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Latte Cappuccino (200ml)",
@@ -974,7 +974,7 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Hot Tea (200ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Milk Shake (330ml)",
@@ -986,7 +986,7 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Fredo Espresso (80ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Milk (250ml)",
@@ -1000,23 +1000,23 @@ export const nonAlcoholicDrinksEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Coca Cola (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Coca Cola Zero (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Fanta (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Sprite (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Schweppes (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Iced Tea (330ml)",
@@ -1036,11 +1036,11 @@ export const nonAlcoholicDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Strumka (250ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Cockta (330ml)",
-      price: "70",
+      price: "80",
     },
     {
       nameAndMl: "Soda Orange (330ml)",
@@ -1056,7 +1056,7 @@ export const nonAlcoholicDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Monin - Lemonade (330ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Draft Juice - Orange (250ml)",
@@ -1072,35 +1072,35 @@ export const nonAlcoholicDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Lemonade (300ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Fresh Juice Orange (330ml)",
-      price: "120",
-    },
-    {
-      nameAndMl: "Fresh Juice Mix - Lemon and Orange (330ml)",
       price: "130",
     },
     {
+      nameAndMl: "Fresh Juice Mix - Lemon and Orange (330ml)",
+      price: "150",
+    },
+    {
       nameAndMl: "Monin - Puree Lemonade (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Monin - Puree Kiwi (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Monin - Puree Strawberry (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Monin - Puree Apple (300ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Cedevita (250ml)",
-      price: "50",
+      price: "60",
     },
     {
       nameAndMl: "Red Bull (330ml)",
