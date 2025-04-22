@@ -5,11 +5,11 @@ export const whiskeyAndBurbon: GenericType = {
   allProducts: [
     {
       nameAndMl: "Џејмисон (40ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Џек Даниелс (40ml)",
-      price: "200",
+      price: "210",
     },
     {
       nameAndMl: "Џим Бим (40ml)",
@@ -17,15 +17,15 @@ export const whiskeyAndBurbon: GenericType = {
     },
     {
       nameAndMl: "Џони Вокер (40ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Џони Вокер - Блек (40ml)",
-      price: "260",
+      price: "280",
     },
     {
       nameAndMl: "Чивас (40ml)",
-      price: "260",
+      price: "300",
     },
     {
       nameAndMl: "Туламур (40ml)",
@@ -94,7 +94,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Аперол (40ml)",
-      price: "150",
+      price: "120",
     },
     {
       nameAndMl: "Пелинковац (40ml)",
@@ -134,11 +134,11 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Кампари (40ml)",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Калуа (40ml)",
-      price: "130",
+      price: "140",
     },
     {
       nameAndMl: "Текила (30ml)",
@@ -151,23 +151,23 @@ export const vines: GenericType = {
   allProducts: [
     {
       nameAndMl: "Александрија Бело (187ml)",
-      price: "180",
-    },
-    {
-      nameAndMl: "Траминец Бело (187ml)",
-      price: "180",
-    },
-    {
-      nameAndMl: "Мускат Темјаника Далвина (187ml)",
       price: "200",
     },
     {
+      nameAndMl: "Траминец Бело (187ml)",
+      price: "200",
+    },
+    {
+      nameAndMl: "Мускат Темјаника Далвина (187ml)",
+      price: "220",
+    },
+    {
       nameAndMl: "Т’га Црвено (187ml)",
-      price: "180",
+      price: "200",
     },
     {
       nameAndMl: "Александрија Црвено (187ml)",
-      price: "180",
+      price: "200",
     },
   ],
 };
@@ -176,19 +176,19 @@ export const coctails: GenericType = {
   allProducts: [
     {
       nameAndMl: "Секс он д бич",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Текила Санрајс (250ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Годфатхер",
-      price: "220",
+      price: "240",
     },
     {
       nameAndMl: "Брамбл",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Мохито (440ml)",
@@ -208,15 +208,15 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Куба Либре - Бакарди",
-      price: "170",
+      price: "180",
     },
     {
       nameAndMl: "Лонг Исланд (250ml)",
-      price: "230",
+      price: "250",
     },
     {
       nameAndMl: "Најт оф Пешн (350ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Камиказа (450ml)",
@@ -224,7 +224,7 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Аперол Шприц (300ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Блу Лагун",
@@ -236,7 +236,7 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Американо Коктел",
-      price: "160",
+      price: "170",
     },
     {
       nameAndMl: "Маргарита Коктел",
@@ -244,11 +244,11 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Негрони",
-      price: "160",
+      price: "200",
     },
     {
       nameAndMl: "Бахама Мама",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Јегер Шот (30ml)",
@@ -260,7 +260,7 @@ export const coctails: GenericType = {
     },
     {
       nameAndMl: "Б - 52 (30ml)",
-      price: "100",
+      price: "120",
     },
   ],
 };
@@ -324,11 +324,11 @@ export const iceCream: GenericType = {
     },
     {
       nameAndMl: "Цермат 2 Топки",
-      price: "140",
+      price: "120",
     },
     {
       nameAndMl: "Цермат 3 Топки",
-      price: "200",
+      price: "170",
     },
   ],
 };
@@ -395,7 +395,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Попарено Нес (200ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Топло Нес без Млеко",
@@ -419,7 +419,7 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Лате Капучино (200ml)",
-      price: "80",
+      price: "90",
     },
     {
       nameAndMl: "Топол Чај (200ml)",
@@ -509,15 +509,15 @@ export const nonAlchocolDrinks: GenericType = {
     },
     {
       nameAndMl: "Наливен Сок - Портокал (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Наливен Сок - Ананас (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Наливен Сок - Киви (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Лимонада (300ml)",
@@ -564,11 +564,11 @@ export const whiskeyAndBourbonEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Jameson (40ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Jack Daniels (40ml)",
-      price: "200",
+      price: "210",
     },
     {
       nameAndMl: "Jim Beam (40ml)",
@@ -576,15 +576,15 @@ export const whiskeyAndBourbonEN: GenericType = {
     },
     {
       nameAndMl: "Johnnie Walker (40ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Johnnie Walker - Black (40ml)",
-      price: "260",
+      price: "280",
     },
     {
       nameAndMl: "Chivas (40ml)",
-      price: "260",
+      price: "300",
     },
     {
       nameAndMl: "Tullamore (40ml)",
@@ -653,7 +653,7 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Aperol (40ml)",
-      price: "150",
+      price: "120",
     },
     {
       nameAndMl: "Pelinkovac (40ml)",
@@ -693,11 +693,11 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Campari (40ml)",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Kahlua (40ml)",
-      price: "130",
+      price: "140",
     },
     {
       nameAndMl: "Tequila (30ml)",
@@ -710,23 +710,23 @@ export const vinesEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Alexandria White (187ml)",
-      price: "180",
-    },
-    {
-      nameAndMl: "Traminec White (187ml)",
-      price: "180",
-    },
-    {
-      nameAndMl: "Muskat Temjanika Dalvina (187ml)",
       price: "200",
     },
     {
+      nameAndMl: "Traminec White (187ml)",
+      price: "200",
+    },
+    {
+      nameAndMl: "Muskat Temjanika Dalvina (187ml)",
+      price: "220",
+    },
+    {
       nameAndMl: "T'ga Red (187ml)",
-      price: "180",
+      price: "200",
     },
     {
       nameAndMl: "Alexandria Red (187ml)",
-      price: "180",
+      price: "200",
     },
   ],
 };
@@ -735,19 +735,19 @@ export const cocktailsEN: GenericType = {
   allProducts: [
     {
       nameAndMl: "Sex on the Beach",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Tequila Sunrise (250ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Godfather",
-      price: "220",
+      price: "240",
     },
     {
       nameAndMl: "Bramble",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Mojito (440ml)",
@@ -767,15 +767,15 @@ export const cocktailsEN: GenericType = {
     },
     {
       nameAndMl: "Cuba Libre - Bacardi",
-      price: "170",
+      price: "180",
     },
     {
       nameAndMl: "Long Island (250ml)",
-      price: "230",
+      price: "250",
     },
     {
       nameAndMl: "Night of Passion (350ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Kamikaze (450ml)",
@@ -783,7 +783,7 @@ export const cocktailsEN: GenericType = {
     },
     {
       nameAndMl: "Aperol Spritz (300ml)",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Blue Lagoon",
@@ -795,7 +795,7 @@ export const cocktailsEN: GenericType = {
     },
     {
       nameAndMl: "Americano Cocktail",
-      price: "160",
+      price: "170",
     },
     {
       nameAndMl: "Margarita Cocktail",
@@ -803,11 +803,11 @@ export const cocktailsEN: GenericType = {
     },
     {
       nameAndMl: "Negroni",
-      price: "160",
+      price: "200",
     },
     {
       nameAndMl: "Bahama Mama",
-      price: "150",
+      price: "160",
     },
     {
       nameAndMl: "Jager Shot (30ml)",
@@ -819,7 +819,7 @@ export const cocktailsEN: GenericType = {
     },
     {
       nameAndMl: "B-52 (30ml)",
-      price: "100",
+      price: "120",
     },
   ],
 };
@@ -883,11 +883,11 @@ export const iceCreamEN: GenericType = {
     },
     {
       nameAndMl: "Cermat 2 Scoops",
-      price: "140",
+      price: "120",
     },
     {
       nameAndMl: "Cermat 3 Scoops",
-      price: "200",
+      price: "170",
     },
   ],
 };
@@ -954,7 +954,7 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Steamed Nes (200ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Hot Nes without Milk",
@@ -978,7 +978,7 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Latte Cappuccino (200ml)",
-      price: "80",
+      price: "90",
     },
     {
       nameAndMl: "Hot Tea (200ml)",
@@ -1068,15 +1068,15 @@ export const nonAlcoholicDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Draft Juice - Orange (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Draft Juice - Pineapple (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Draft Juice - Kiwi (250ml)",
-      price: "60",
+      price: "70",
     },
     {
       nameAndMl: "Lemonade (300ml)",
