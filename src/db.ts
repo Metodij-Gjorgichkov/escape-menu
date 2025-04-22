@@ -74,7 +74,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Шток (40ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Узо (40ml)",
@@ -82,7 +82,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Узо Пломари (40ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Мастика (40ml)",
@@ -98,7 +98,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Пелинковац (40ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Јегер (40ml)",
@@ -106,7 +106,7 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Мартини (40ml)",
-      price: "100",
+      price: "120",
     },
     {
       nameAndMl: "Рум - Бадел (40ml)",
@@ -118,11 +118,11 @@ export const strongDrinks: GenericType = {
     },
     {
       nameAndMl: "Капетан Морган Рум (40ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Малибу (40ml)",
-      price: "140",
+      price: "150",
     },
     {
       nameAndMl: "Бејлес (40ml)",
@@ -251,6 +251,14 @@ export const coctails: GenericType = {
       price: "160",
     },
     {
+      nameAndMl: "Маи Таи",
+      price: "160",
+    },
+    {
+      nameAndMl: "Без Алкохолен Коктел",
+      price: "130",
+    },
+    {
       nameAndMl: "Јегер Шот (30ml)",
       price: "100",
     },
@@ -358,7 +366,7 @@ export const water: GenericType = {
     },
     {
       nameAndMl: "Негазирана Ладна (250ml)",
-      price: "70",
+      price: "60",
     },
   ],
 };
@@ -427,11 +435,11 @@ export const warmDrinks: GenericType = {
     },
     {
       nameAndMl: "Милк Шејк (330ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Фрапе со Сладолед",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Фредо Еспресо (80ml)",
@@ -633,7 +641,7 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Stock (40ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Ouzo (40ml)",
@@ -641,7 +649,7 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Ouzo Plomari (40ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Mastika (40ml)",
@@ -657,7 +665,7 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Pelinkovac (40ml)",
-      price: "90",
+      price: "100",
     },
     {
       nameAndMl: "Jager (40ml)",
@@ -665,7 +673,7 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Martini (40ml)",
-      price: "100",
+      price: "120",
     },
     {
       nameAndMl: "Rum - Badel (40ml)",
@@ -677,11 +685,11 @@ export const strongDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Captain Morgan Rum (40ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Malibu (40ml)",
-      price: "140",
+      price: "150",
     },
     {
       nameAndMl: "Baileys (40ml)",
@@ -810,6 +818,14 @@ export const cocktailsEN: GenericType = {
       price: "160",
     },
     {
+      nameAndMl: "Muay Thai",
+      price: "160",
+    },
+    {
+      nameAndMl: "Non-alcoholic cocktail",
+      price: "130",
+    },
+    {
       nameAndMl: "Jager Shot (30ml)",
       price: "100",
     },
@@ -917,7 +933,7 @@ export const waterEN: GenericType = {
     },
     {
       nameAndMl: "Still Ladna (250ml)",
-      price: "70",
+      price: "60",
     },
   ],
 };
@@ -986,11 +1002,11 @@ export const warmDrinksEN: GenericType = {
     },
     {
       nameAndMl: "Milk Shake (330ml)",
-      price: "100",
+      price: "110",
     },
     {
       nameAndMl: "Frappe with Ice Cream",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Fredo Espresso (80ml)",
