@@ -332,11 +332,11 @@ export const iceCream: GenericType = {
     },
     {
       nameAndMl: "Цермат 2 Топки",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Цермат 3 Топки",
-      price: "170",
+      price: "180",
     },
   ],
 };
@@ -899,11 +899,11 @@ export const iceCreamEN: GenericType = {
     },
     {
       nameAndMl: "Cermat 2 Scoops",
-      price: "120",
+      price: "130",
     },
     {
       nameAndMl: "Cermat 3 Scoops",
-      price: "170",
+      price: "180",
     },
   ],
 };
